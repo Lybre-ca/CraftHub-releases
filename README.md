@@ -7,8 +7,8 @@ This repository only hosts Craft Hub's releases. Craft Hub is an independent app
 
 ## Install
 
-1. Download `CraftHub-<version>.zip` from the latest [release](../../releases/latest) and unzip it.
-2. Move **Craft Hub** to your Applications folder and open it.
+1. Download `CraftHub-<version>.dmg` from the latest [release](../../releases/latest) and open it.
+2. Drag **Craft Hub** onto the **Applications** folder, then open it from Applications.
 3. The first time, macOS blocks it because it isn't notarized by Apple. Open **System Settings ▸
    Privacy & Security**, find the message about Craft Hub, and click **Open Anyway**. You only do this once.
 
